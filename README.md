@@ -8,4 +8,4 @@ The Jupyter notebook to carry out the ML training is the file: `PlayMathFuncExam
 
 The essential code for Android is the `getPrediction` method in `MainActivity`.
 
-![Android screenshot](https://github.com/RowanG1/TabularData_FastAI_Android/Android_Screenshot.jpg?raw=true)
+![Alt text](Android_Screenshot.jpg?raw=true "Android screenshot")
